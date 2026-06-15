@@ -1,0 +1,166 @@
+ID_Pedido;Canal_Venta;Comuna_Despacho;Costo_Envio_Pesos
+PED-2026-0001;Sitio Web;  La Serena;22500
+PED-2026-0002;Aplicación Móvil;  Temuco;7600
+PED-2026-0003;Sitio Web;Las Condes  ;16500
+PED-2026-0004;Venta Telefónica;viña del mar;42000
+PED-2026-0005;Sitio Web;Chiguayante;2800
+PED-2026-0006;Sitio Web;SANTIAGO;5600
+PED-2026-0007;Sitio Web;padre las casas;27000
+PED-2026-0008;Venta Telefónica;VILLA ALEMANA;25200
+PED-2026-0009;Marketplace;TEMUCO;11200
+PED-2026-0010;Venta Telefónica;Ovalle;2700
+PED-2026-0011;Aplicación Móvil;  Villa Alemana;11200
+PED-2026-0012;Marketplace;concón;10000
+PED-2026-0013;Aplicación Móvil;ñuñoa;2300
+PED-2026-0014;Venta Telefónica;ovalle;16000
+PED-2026-0015;Sitio Web;  Villa Alemana;21000
+PED-2026-0016;Sitio Web;coquimbo;31000
+PED-2026-0017;Marketplace;Padre Las Casas  ;33600
+PED-2026-0018;Sitio Web;VALPARAÍSO;31000
+PED-2026-0019;Sitio Web;  Santiago;5600
+PED-2026-0020;Sitio Web;viña del mar;25200
+PED-2026-0021;Aplicación Móvil;Chiguayante;26400
+PED-2026-0022;Aplicación Móvil;  Temuco;12400
+PED-2026-0023;Marketplace;calama;16000
+PED-2026-0024;Venta Telefónica;  Antofagasta;5000
+PED-2026-0025;Sitio Web;  Tocopilla;16200
+PED-2026-0026;Aplicación Móvil;San Pedro de la Paz;29000
+PED-2026-0027;Marketplace;  Chiguayante;42000
+PED-2026-0028;Aplicación Móvil;Temuco;25000
+PED-2026-0029;Venta Telefónica;ÑUÑOA;14400
+PED-2026-0030;Aplicación Móvil;  Villa Alemana;43500
+PED-2026-0031;Venta Telefónica;  Concón;43500
+PED-2026-0032;Venta Telefónica;concón;28000
+PED-2026-0033;Marketplace;San Pedro de la Paz  ;16200
+PED-2026-0034;Venta Telefónica;La Florida  ;2500
+PED-2026-0035;Aplicación Móvil;san pedro de la paz;21000
+PED-2026-0036;Aplicación Móvil;CONCEPCIÓN;14700
+PED-2026-0037;Marketplace;coquimbo;11600
+PED-2026-0038;Venta Telefónica;San Pedro de la Paz  ;10400
+PED-2026-0039;Venta Telefónica;Concepción;3200
+PED-2026-0040;Marketplace;LA FLORIDA;25200
+PED-2026-0041;Marketplace;Temuco  ;7500
+PED-2026-0042;Aplicación Móvil;La Serena  ;2800
+PED-2026-0043;Venta Telefónica;  Tocopilla;10500
+PED-2026-0044;Marketplace;  Ñuñoa;39000
+PED-2026-0045;Aplicación Móvil;  Talcahuano;28800
+PED-2026-0046;Venta Telefónica;COQUIMBO;15400
+PED-2026-0047;Aplicación Móvil;providencia;15400
+PED-2026-0048;Aplicación Móvil;Viña del Mar  ;9000
+PED-2026-0049;Sitio Web;PUCÓN;16800
+PED-2026-0050;Sitio Web;Santiago;22400
+PED-2026-0051;Venta Telefónica;  Santiago;31200
+PED-2026-0052;Aplicación Móvil;Concón  ;11200
+PED-2026-0053;Sitio Web;Chiguayante;6000
+PED-2026-0054;Marketplace;  Santiago;11200
+PED-2026-0055;Venta Telefónica;  Viña del Mar;23000
+PED-2026-0056;Venta Telefónica;Talcahuano;22400
+PED-2026-0057;Venta Telefónica;  Ovalle;20800
+PED-2026-0058;Aplicación Móvil;SANTIAGO;16000
+PED-2026-0059;Marketplace;Chiguayante  ;10800
+PED-2026-0060;Aplicación Móvil;ovalle;6900
+PED-2026-0061;Sitio Web;La Serena;19600
+PED-2026-0062;Marketplace;LA SERENA;18200
+PED-2026-0063;Sitio Web;ñuñoa;3100
+PED-2026-0064;Marketplace;PROVIDENCIA;23000
+PED-2026-0065;Sitio Web;CHIGUAYANTE;2300
+PED-2026-0066;Sitio Web;  Tocopilla;27600
+PED-2026-0067;Marketplace;  Ñuñoa;8700
+PED-2026-0068;Aplicación Móvil;Providencia;22400
+PED-2026-0069;Sitio Web;Ñuñoa  ;15500
+PED-2026-0070;Aplicación Móvil;PROVIDENCIA;27000
+PED-2026-0071;Sitio Web;Padre Las Casas;22000
+PED-2026-0072;Aplicación Móvil;LAS CONDES;5600
+PED-2026-0073;Sitio Web;CONCÓN;28000
+PED-2026-0074;Marketplace;  Antofagasta;14500
+PED-2026-0075;Aplicación Móvil;tocopilla;37500
+PED-2026-0076;Aplicación Móvil;Valparaíso;3100
+PED-2026-0077;Venta Telefónica;Villarrica;29000
+PED-2026-0078;Marketplace;San Pedro de la Paz  ;16800
+PED-2026-0079;Venta Telefónica;Pucón;42000
+PED-2026-0080;Venta Telefónica;VILLA ALEMANA;22800
+PED-2026-0081;Venta Telefónica;pucón;10400
+PED-2026-0082;Sitio Web;La Serena  ;16200
+PED-2026-0083;Sitio Web;  Villarrica;14500
+PED-2026-0084;Marketplace;Padre Las Casas  ;11200
+PED-2026-0085;Aplicación Móvil;VILLARRICA;20800
+PED-2026-0086;Sitio Web;Santiago  ;9600
+PED-2026-0087;Sitio Web;  Coquimbo;17400
+PED-2026-0088;Aplicación Móvil;Concón;14000
+PED-2026-0089;Aplicación Móvil;  Talcahuano;14400
+PED-2026-0090;Sitio Web;Ñuñoa  ;18400
+PED-2026-0091;Aplicación Móvil;la serena;11200
+PED-2026-0092;Venta Telefónica;san pedro de la paz;8700
+PED-2026-0093;Sitio Web;  Tocopilla;6600
+PED-2026-0094;Marketplace;Viña del Mar  ;23200
+PED-2026-0095;Marketplace;Antofagasta  ;4200
+PED-2026-0096;Venta Telefónica;PUCÓN;42000
+PED-2026-0097;Sitio Web;pucón;10000
+PED-2026-0098;Sitio Web;Providencia  ;10800
+PED-2026-0099;Sitio Web;Coquimbo;11000
+PED-2026-0100;Venta Telefónica;santiago;14000
+PED-2026-0101;Venta Telefónica;VILLARRICA;25200
+PED-2026-0102;Sitio Web;Tocopilla;12000
+PED-2026-0103;Venta Telefónica;SANTIAGO;10800
+PED-2026-0104;Aplicación Móvil;  Villarrica;16800
+PED-2026-0105;Sitio Web;Maipú;14500
+PED-2026-0106;Sitio Web;las condes;19600
+PED-2026-0107;Marketplace;  Santiago;3100
+PED-2026-0108;Venta Telefónica;San Pedro de la Paz  ;31500
+PED-2026-0109;Marketplace;Antofagasta  ;43500
+PED-2026-0110;Aplicación Móvil;Padre Las Casas;22400
+PED-2026-0111;Venta Telefónica;la florida;43500
+PED-2026-0112;Venta Telefónica;  Valparaíso;11500
+PED-2026-0113;Marketplace;  Ovalle;11500
+PED-2026-0114;Sitio Web;talcahuano;29000
+PED-2026-0115;Aplicación Móvil;san pedro de la paz;24000
+PED-2026-0116;Aplicación Móvil;CALAMA;6600
+PED-2026-0117;Venta Telefónica;  Calama;31200
+PED-2026-0118;Marketplace;  Pucón;14000
+PED-2026-0119;Venta Telefónica;Talcahuano  ;6900
+PED-2026-0120;Aplicación Móvil;  Temuco;11200
+PED-2026-0121;Marketplace;OVALLE;22000
+PED-2026-0122;Aplicación Móvil;LA FLORIDA;14000
+PED-2026-0123;Sitio Web;Tocopilla;22400
+PED-2026-0124;Venta Telefónica;Maipú;27000
+PED-2026-0125;Aplicación Móvil;TALCAHUANO;34800
+PED-2026-0126;Sitio Web;Calama  ;20800
+PED-2026-0127;Venta Telefónica;Las Condes;29000
+PED-2026-0128;Sitio Web;LA SERENA;2900
+PED-2026-0129;Venta Telefónica;Las Condes  ;13200
+PED-2026-0130;Sitio Web;SAN PEDRO DE LA PAZ;13800
+PED-2026-0131;Marketplace;Valparaíso  ;43500
+PED-2026-0132;Sitio Web;Coquimbo  ;5800
+PED-2026-0133;Venta Telefónica;la florida;2500
+PED-2026-0134;Marketplace;  Pucón;29000
+PED-2026-0135;Venta Telefónica;Quilpué;31200
+PED-2026-0136;Sitio Web;concepción;10000
+PED-2026-0137;Marketplace;  Padre Las Casas;16800
+PED-2026-0138;Marketplace;Valparaíso  ;34800
+PED-2026-0139;Aplicación Móvil;Valparaíso  ;18900
+PED-2026-0140;Aplicación Móvil;La Florida  ;31200
+PED-2026-0141;Aplicación Móvil;  Padre Las Casas;2200
+PED-2026-0142;Marketplace;viña del mar;15000
+PED-2026-0143;Venta Telefónica;  La Serena;31500
+PED-2026-0144;Marketplace;Temuco  ;27600
+PED-2026-0145;Marketplace;Concón;20300
+PED-2026-0146;Venta Telefónica;La Florida  ;29000
+PED-2026-0147;Venta Telefónica;Viña del Mar  ;16200
+PED-2026-0148;Marketplace;CALAMA;31500
+PED-2026-0149;Aplicación Móvil;  Santiago;11000
+PED-2026-0150;Venta Telefónica;CALAMA;10500
+PED-2026-0151;Venta Telefónica;Concepción;2900
+PED-2026-0152;Marketplace;CONCEPCIÓN;20800
+PED-2026-0153;Sitio Web;TEMUCO;12000
+PED-2026-0154;Marketplace;maipú;14700
+PED-2026-0155;Venta Telefónica;Tocopilla  ;6600
+PED-2026-0156;Aplicación Móvil;  Villa Alemana;2200
+PED-2026-0157;Sitio Web;providencia;4600
+PED-2026-0158;Sitio Web;Pucón;11200
+PED-2026-0159;Aplicación Móvil;pucón;33000
+PED-2026-0160;Sitio Web;Las Condes;9200
+PED-2026-0161;Sitio Web;Concón;13800
+PED-2026-0162;Venta Telefónica;TEMUCO;25000
+PED-2026-0163;Aplicación Móvil;Concón  ;2700
+PED-2026-0164;Sitio Web;viña del mar;2900
+PED-2026-0165;Venta Telefónica;Ovalle  ;13200
